@@ -68,6 +68,9 @@
 
         public void TakeDamage(int damage)
         {
+            if (damage < 0)
+                throw new ArgumentException("Damage must be more or equals than 0", nameof(damage));
+            
             _health -= damage;
         }
     }

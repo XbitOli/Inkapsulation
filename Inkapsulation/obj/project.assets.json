@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\Inkapsulation\\Inkapsulation\\Inkapsulation.csproj",
+      "projectUniqueName": "D:\\Projects\\IJunior\\Napilnik\\Inkapsulation\\Inkapsulation\\Inkapsulation.csproj",
       "projectName": "Inkapsulation",
-      "projectPath": "D:\\Projects\\Inkapsulation\\Inkapsulation\\Inkapsulation.csproj",
+      "projectPath": "D:\\Projects\\IJunior\\Napilnik\\Inkapsulation\\Inkapsulation\\Inkapsulation.csproj",
       "packagesPath": "C:\\Users\\Zojok\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\Inkapsulation\\Inkapsulation\\obj\\",
+      "outputPath": "D:\\Projects\\IJunior\\Napilnik\\Inkapsulation\\Inkapsulation\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Zojok\\AppData\\Roaming\\NuGet\\NuGet.Config",
